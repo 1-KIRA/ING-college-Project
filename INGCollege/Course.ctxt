@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\nName\:\ Nikhil\ Acharya\ (Networking)\r\nGroup\:\ N2\r\nLonmdonMetID\:\ 20049181\r\n
+comment1.params=courseID\ courseName\ duration
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getCourseID()
+comment3.params=
+comment3.target=java.lang.String\ getCourseName()
+comment4.params=
+comment4.target=int\ getDuration()
+comment5.params=name
+comment5.target=void\ setCourseLeader(java.lang.String)
+comment6.params=
+comment6.target=void\ display()
+numComments=7
